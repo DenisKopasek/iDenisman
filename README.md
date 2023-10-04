@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iDenisman,
+- 👋 Hi, I’m Denis Kopásek,
 - 👀 I am seeking an oportunity to work in IT industry as I love to work on all PC-related stuff.
 - 👀 I’m interested in IT development, testing or back-end development.
 - 🌱 I’m currently learning Python programming language, working with databases.
